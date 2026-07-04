@@ -19,7 +19,7 @@ Shiori aims to be a modern document reader focused on:
 
 ### Phase 1 
 
-- [ ] Create project
+- [x] Create project
 - [ ] Render an EPUB
 - [ ] Basic Vim navigation (`j`, `k`, `gg`, `G`)
 - [ ] Remember reading position
