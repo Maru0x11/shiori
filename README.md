@@ -34,9 +34,7 @@ Shiori aims to be a modern document reader built specifically for language learn
 
 ## Why?
 
-For a long time, I've been looking for a local document reader specifically designed for language learning. I haven't found one that fits what I want, so I decided to build my own.
-
-The goal is to make reading immersion material feel enjoyable rather than overwhelming,a reader where language-learning features are built into the reading experience instead of being bolted on afterward.
+For a very long time, I've been looking for a reader that works locally on my machine that actually is inteded for language learning, I haven't found any and I want to build my own version, where people actually enjoy reading through their immersion material without feeling overwhelmed.
 
 ## License
 
