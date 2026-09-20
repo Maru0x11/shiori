@@ -10,7 +10,7 @@ Shiori aims to be a modern document reader built specifically for language learn
 
 * Vim-inspired navigation
 * Native popup dictionaries and lookups
-* Beautiful typography, especially for Korean
+* Beautiful typography, especially for Japanese , Korean 
 * EPUB and PDF support
 * An extensible document-rendering architecture
 * A distraction-free reading experience
